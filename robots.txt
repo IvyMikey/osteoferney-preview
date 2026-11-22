@@ -1,0 +1,6 @@
+# Preview for review. Before osteoferney.online goes live, replace this file with:
+# User-agent: *
+# Allow: /
+# Sitemap: https://osteoferney.online/sitemap.xml
+User-agent: *
+Disallow: /
